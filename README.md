@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>✨Animo✨</title>
+  <title>✨Ánimo✨</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -38,7 +38,7 @@
   </style>
 </head>
 <body>
-  <h1>✨Animo✨</h1>
+  <h1>✨Ánimo✨</h1>
   <p>Ojalá tu día se ilumine poquito a poquito 💜</p>
 
   <div id="gatito" class="gatito">🐱</div>
@@ -54,7 +54,7 @@
     }
     function sentirseMal() {
       document.getElementById("gatito").innerHTML = "😿";
-      document.getElementById("mensaje").innerHTML = "Ánimo 💜 incluso los días difíciles pasan.";
+      document.getElementById("mensaje").innerHTML = "Tu puedes 💜 incluso los días difíciles pasan.";
     }
   </script>
 </body>
