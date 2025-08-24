@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>✨Mejórate pronto✨</title>
+  <title>✨Animo✨</title>
   <style>
     body {
       font-family: Arial, sans-serif;
