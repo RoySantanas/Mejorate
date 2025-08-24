@@ -38,7 +38,7 @@
   </style>
 </head>
 <body>
-  <h1>✨Mejórate pronto✨</h1>
+  <h1>✨Animo✨</h1>
   <p>Ojalá tu día se ilumine poquito a poquito 💜</p>
 
   <div id="gatito" class="gatito">🐱</div>
